@@ -7,7 +7,9 @@ https://www.twitch.tv/buuuggyy
 
 # A. 部署環境
 1. 安裝python
-2. pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 # B. 創建Discord BOT
 1. 訪問 Discord 開發者:[https://t.co/tP3VMvmqOi](https://discord.com/developers/applications)
@@ -32,7 +34,10 @@ OPENAI_API_KEY=你的OpenAI API密鑰
 記得替換為您實際的令牌和密鑰!
 
 # E. 運行程式
-1. python dcgpt.py
+```
+python dcgpt.py
+```
+
 2. 如果一切正常,您應該會看到 "[你的機器人名稱] 已連接到 Discord!" 的消息
 
 # F. 邀請機器人到您的 Discord 伺服器
