@@ -7,6 +7,7 @@ https://www.twitch.tv/buuuggyy
 
 # A. 部署環境
 1. 安裝python
+2. 部署環境
 ```
 pip install -r requirements.txt
 ```
