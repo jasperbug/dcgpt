@@ -1,6 +1,6 @@
 # DCGPT
 
-Hello, I'm Your Bug, a VTuber, currently streaming on Twitch.
+Hello, I'm Buuuggyy, a VTuber, currently streaming on Twitch.
 [https://www.twitch.tv/buuuggyy](https://www.twitch.tv/buuuggyy)
 
 This simple code can connect GPT to your Discord, Twitch, Line, and Telegram. This version is optimized for Discord.
