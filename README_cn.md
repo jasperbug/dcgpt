@@ -1,5 +1,6 @@
 # DCGPT
-你好,我是你家蟲子vtuber,目前在twitch開台
+你好,我是你家蟲子vtuber,
+目前在twitch開台
 https://www.twitch.tv/buuuggyy
 這個間單的code可以將gpt串接近你的dc, twitch, line, telegram
 目前這份是針對discord進行優化的版本
